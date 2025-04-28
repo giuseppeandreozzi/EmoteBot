@@ -1,17 +1,8 @@
-# DEPRECATED
-
-
-
 # EmoteBot
-EmoteBot is a telegram's bot that allows to send twitch's extensions' emote (7tv, BetterTTV and FrankerFaceZ) in the telegram's group chat via the user's messages that contains the emote's name
+EmoteBot is a telegram bot that allows the user the users to write a 7tv or bttv emote name in a telegram group chat and this bot reply with the emote sticker.
 
-
+Link: [EmoteBot](https://t.me/emotettvbot)
 # How to use
- - Add the [bot](https://t.me/emotettvbot) in the group
- - Set the streamer's name with the command /setstreamer [streamer's name]
- - Now all the user in the group can send a message with ONLY the emote's name and the bot will reply with the emote's sticker/gif
-
-## Example
-<p align="center">
-  <img src="https://i.imgur.com/Uax44Dv.gif" alt="Sublime's custom image"/>
-</p>
+ - Add the bot in the group
+ - Set the streamer name with the command '/setstreamer <streamer's name>' (i.e '/setstreamer sabaku_no_sutoriimaa')
+ - Now all the users in the group can send a message with ONLY the emote name and the bot will reply with the emote's sticker/gif
